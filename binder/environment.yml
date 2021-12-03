@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - pangeo-notebook
+  - nodejs
   - xarray
   - hvplot
   - pip
