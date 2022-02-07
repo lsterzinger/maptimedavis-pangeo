@@ -3,6 +3,6 @@
 jupyter labextension install --clean \
                             @jupyter-widgets/jupyterlab-manager \
                             dask-labextension \
-                            @pyviz/jupyterlab_pyviz
+#                             @pyviz/jupyterlab_pyviz
 
 #EOF
