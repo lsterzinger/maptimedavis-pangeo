@@ -7,5 +7,6 @@ dependencies:
   - xarray
   - hvplot
   - pip
+  - h5py
   - pip:
     - sat-search
