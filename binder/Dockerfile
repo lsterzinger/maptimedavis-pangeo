@@ -1,3 +1,3 @@
-FROM pangeo/base-image:2022.08.24
+FROM pangeo/base-image:2022.09.06
 RUN echo $(which mamba)
 RUN mamba install -n notebook -c conda-forge kerchunk
